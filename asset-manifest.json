@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hasyo1/Comp2156/static/css/main.f48a98bf.css",
-    "main.js": "/hasyo1/Comp2156/static/js/main.6ae53e25.js",
-    "index.html": "/hasyo1/Comp2156/index.html",
-    "main.f48a98bf.css.map": "/hasyo1/Comp2156/static/css/main.f48a98bf.css.map",
-    "main.6ae53e25.js.map": "/hasyo1/Comp2156/static/js/main.6ae53e25.js.map"
+    "main.css": "/Comp2156/static/css/main.f48a98bf.css",
+    "main.js": "/Comp2156/static/js/main.6ae53e25.js",
+    "index.html": "/Comp2156/index.html",
+    "main.f48a98bf.css.map": "/Comp2156/static/css/main.f48a98bf.css.map",
+    "main.6ae53e25.js.map": "/Comp2156/static/js/main.6ae53e25.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
